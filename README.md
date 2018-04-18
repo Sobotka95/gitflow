@@ -1,1 +1,1 @@
-Version: 0.9.0 - Release
+Version: 1.0.0
